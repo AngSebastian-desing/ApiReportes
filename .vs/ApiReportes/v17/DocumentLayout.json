@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\source\\repos\\ApiReportes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3989E8-48AA-40B6-BF4D-F64F4EBDFBE2}|ApiReportes\\ApiReportes.csproj|c:\\users\\angel\\source\\repos\\apireportes\\apireportes\\data\\reportescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3989E8-48AA-40B6-BF4D-F64F4EBDFBE2}|ApiReportes\\ApiReportes.csproj|solutionrelative:apireportes\\data\\reportescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3989E8-48AA-40B6-BF4D-F64F4EBDFBE2}|ApiReportes\\ApiReportes.csproj|c:\\users\\angel\\source\\repos\\apireportes\\apireportes\\models\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3989E8-48AA-40B6-BF4D-F64F4EBDFBE2}|ApiReportes\\ApiReportes.csproj|solutionrelative:apireportes\\models\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3989E8-48AA-40B6-BF4D-F64F4EBDFBE2}|ApiReportes\\ApiReportes.csproj|c:\\users\\angel\\source\\repos\\apireportes\\apireportes\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3989E8-48AA-40B6-BF4D-F64F4EBDFBE2}|ApiReportes\\ApiReportes.csproj|solutionrelative:apireportes\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3989E8-48AA-40B6-BF4D-F64F4EBDFBE2}|ApiReportes\\ApiReportes.csproj|c:\\users\\angel\\source\\repos\\apireportes\\apireportes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D3989E8-48AA-40B6-BF4D-F64F4EBDFBE2}|ApiReportes\\ApiReportes.csproj|solutionrelative:apireportes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3989E8-48AA-40B6-BF4D-F64F4EBDFBE2}|ApiReportes\\ApiReportes.csproj|c:\\users\\angel\\source\\repos\\apireportes\\apireportes\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3989E8-48AA-40B6-BF4D-F64F4EBDFBE2}|ApiReportes\\ApiReportes.csproj|solutionrelative:apireportes\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportesContext.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ApiReportes\\ApiReportes\\Data\\ReportesContext.cs",
+              "RelativeDocumentMoniker": "ApiReportes\\Data\\ReportesContext.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ApiReportes\\ApiReportes\\Data\\ReportesContext.cs",
+              "RelativeToolTip": "ApiReportes\\Data\\ReportesContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwD0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T23:29:28.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ApiReportes\\ApiReportes\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiReportes\\appsettings.json",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ApiReportes\\ApiReportes\\appsettings.json",
+              "RelativeToolTip": "ApiReportes\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T21:04:31.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ApiReportes\\ApiReportes\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ApiReportes\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ApiReportes\\ApiReportes\\Models\\Usuario.cs",
+              "RelativeToolTip": "ApiReportes\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:19:04.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ApiReportes\\ApiReportes\\Models\\Reporte.cs",
+              "RelativeDocumentMoniker": "ApiReportes\\Models\\Reporte.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ApiReportes\\ApiReportes\\Models\\Reporte.cs",
+              "RelativeToolTip": "ApiReportes\\Models\\Reporte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T06:19:03.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\ApiReportes\\ApiReportes\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "ApiReportes\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\ApiReportes\\ApiReportes\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "ApiReportes\\Controllers\\ReporteController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAzwD0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:15:27.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
